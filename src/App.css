@@ -1,0 +1,21 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.screen-container {
+    margin: 30px;
+    height: 500px;
+    width: 500px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+    gap: 20px;
+}
